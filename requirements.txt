@@ -1,0 +1,2 @@
+mega.py~=1.0.8
+anonfile~=0.2.7
